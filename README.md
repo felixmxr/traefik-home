@@ -1,6 +1,6 @@
 [![ghcr.io release](https://img.shields.io/github/v/release/santimar/traefik-home?label=latest%20version&style=for-the-badge)](https://github.com/santimar/traefik-home/pkgs/container/traefik-home/versions)
 
-# Traefik Home
+# Traefik Home 2
 ![preview](/doc/preview.jpg)
 
 This tool will create a homepage for quick access to the domains where containers are exposed via [traefik proxy](https://traefik.io/traefik/) using v2 configuration. (for old v1 configuration see [here](https://github.com/lobre/traefik-home))
